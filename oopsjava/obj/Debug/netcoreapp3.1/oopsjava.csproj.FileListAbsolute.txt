@@ -1,0 +1,11 @@
+C:\Users\adity\source\repos\oopsjava\obj\Debug\netcoreapp3.1\oopsjava.csprojAssemblyReference.cache
+C:\Users\adity\source\repos\oopsjava\obj\Debug\netcoreapp3.1\oopsjava.AssemblyInfoInputs.cache
+C:\Users\adity\source\repos\oopsjava\obj\Debug\netcoreapp3.1\oopsjava.AssemblyInfo.cs
+C:\Users\adity\source\repos\oopsjava\bin\Debug\netcoreapp3.1\oopsjava.exe
+C:\Users\adity\source\repos\oopsjava\bin\Debug\netcoreapp3.1\oopsjava.deps.json
+C:\Users\adity\source\repos\oopsjava\bin\Debug\netcoreapp3.1\oopsjava.runtimeconfig.json
+C:\Users\adity\source\repos\oopsjava\bin\Debug\netcoreapp3.1\oopsjava.runtimeconfig.dev.json
+C:\Users\adity\source\repos\oopsjava\bin\Debug\netcoreapp3.1\oopsjava.dll
+C:\Users\adity\source\repos\oopsjava\bin\Debug\netcoreapp3.1\oopsjava.pdb
+C:\Users\adity\source\repos\oopsjava\obj\Debug\netcoreapp3.1\oopsjava.dll
+C:\Users\adity\source\repos\oopsjava\obj\Debug\netcoreapp3.1\oopsjava.pdb
